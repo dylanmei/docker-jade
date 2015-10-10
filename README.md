@@ -1,7 +1,7 @@
 docker-jade
 -----------
 
-Docker image to run [Jade](http://jade-lang.com) Node template engine.
+Docker image to run the [Jade](http://jade-lang.com) template engine.
 
 simple example:
 
